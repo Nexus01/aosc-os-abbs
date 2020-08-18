@@ -1,4 +1,4 @@
-VER=5.8.1
-REL=1
-SRCTBL="https://cdn.kernel.org/pub/linux/kernel/v${VER:0:1}.x/linux-$VER.tar.xz"
-CHKSUM="sha256::f8d2a4fe938ff7faa565765a52e347e518a0712ca6ddd41b198bd9cc1626a724"
+VER=5.9.0
+RC=1
+SRCTBL="https://git.kernel.org/torvalds/t/linux-${VER%.*}-rc${RC}.tar.gz"
+CHKSUM="sha256::8a766cbda0bd42411a6e35a77aec8c44415bb1c1ddfd81712639afe639d1a623"
