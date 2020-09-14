@@ -1,4 +1,4 @@
 VER=5.9.0
-RC=1
+RC=5
 SRCTBL="https://git.kernel.org/torvalds/t/linux-${VER%.*}-rc${RC}.tar.gz"
-CHKSUM="sha256::8a766cbda0bd42411a6e35a77aec8c44415bb1c1ddfd81712639afe639d1a623"
+CHKSUM="sha256::2cafd618bc4e895478a26d96b6eaed3eba01e045071838797a658599270481b8"
